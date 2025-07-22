@@ -1,22 +1,22 @@
 # === REACT FRONTEND ===
-frontend/node_modules/
-frontend/build/
-frontend/.env
-frontend/coverage/
-frontend/*.log
-frontend/.DS_Store
+frontend2/node_modules/
+frontend2/build/
+frontend2/.env
+frontend2/coverage/
+frontend2/*.log
+frontend2/.DS_Store
 
 # === DJANGO BACKEND ===
-backend/__pycache__/
-backend/**/*.py[cod]
-backend/**/migrations/*.py[cod]
-backend/env/
-backend/*.sqlite3
-backend/*.db
-backend/*.log
-backend/media/
-backend/.env
-backend/.DS_Store
+backend2/__pycache__/
+backend2/**/*.py[cod]
+backend2/**/migrations/*.py[cod]
+backend2/env/
+backend2/*.sqlite3
+backend2/*.db
+backend2/*.log
+backend2/media/
+backend2/.env
+backend2/.DS_Store
 
 # === COMMON ===
 *.log

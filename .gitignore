@@ -1,0 +1,29 @@
+# === REACT FRONTEND ===
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/coverage/
+frontend/*.log
+frontend/.DS_Store
+
+# === DJANGO BACKEND ===
+backend/__pycache__/
+backend/**/*.py[cod]
+backend/**/migrations/*.py[cod]
+backend/env/
+backend/*.sqlite3
+backend/*.db
+backend/*.log
+backend/media/
+backend/.env
+backend/.DS_Store
+
+# === COMMON ===
+*.log
+*.pyc
+.env
+.DS_Store
+.vscode/
+__pycache__/
+*.egg-info/
+*.idea/

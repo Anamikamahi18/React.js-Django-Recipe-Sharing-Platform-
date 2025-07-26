@@ -1,0 +1,33 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.log
+
+# Django migration files
+*/migrations/*.pyc
+*/migrations/__pycache__/
+*/migrations/*.log
+
+# SQLite / DB files
+*.sqlite3
+*.db
+
+# Media and uploads
+/media/
+staticfiles/
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# dotenv environment variables
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/

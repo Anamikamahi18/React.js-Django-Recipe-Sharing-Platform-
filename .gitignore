@@ -15,6 +15,7 @@ backend2/*.sqlite3
 backend2/*.db
 backend2/*.log
 backend2/media/
+# backend2/recipebackend/media/
 backend2/.env
 backend2/.DS_Store
 
